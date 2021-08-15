@@ -4,7 +4,7 @@ Top.gg/DBl vote counter
 
 
 ### Developer
-ǃ                         Ashish#0001
+ǃ                         Ashish#0001(850938117422448670)
 
 
 ### Step 1: Create a Github Account
