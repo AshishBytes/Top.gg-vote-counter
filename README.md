@@ -19,16 +19,16 @@ Don't worry, it's super simple.
 #### Creating the application
 To create the application, head to https://discord.com/developers/applications/. Log in, and you'll reach a page that may look like this:
 
-![](https://media.discordapp.net/attachments/660518707134595095/830720086921707540/1.png)
+![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(211).png?raw=true)
 
 Click on **Create an application**. This brings you to the following page, in which you should simply enter a name for the application. After clicking **Create**, you can also add an avatar. Click **Save Changes** afterwards.
 
-![](https://cdn.discordapp.com/attachments/874597209709105152/876297593502724156/Screenshot_212.png)
+![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(212).png?raw=true)
 
 #### Creating the bot account
 After creating the application, we need to create the Bot User. Go to the `Bot` section on the left, then click on **Add Bot**, then **Yes, Do it**.
 
-![](https://cdn.discordapp.com/attachments/874597209709105152/876297600033255444/Screenshot_213.png)
+![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(213).png?raw=true)
 
 There's a few things you can change here. 
 - Username: Change your bot's username on Discord
@@ -39,4 +39,4 @@ There's a few things you can change here.
 #### Getting the token
 Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
 
-![](https://cdn.discordapp.com/attachments/874597209709105152/876299948793155654/Screenshot_214.jpg)
+![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(214).jpg?raw=true)
