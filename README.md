@@ -43,3 +43,10 @@ There's a few things you can change here.
 Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
 
 ![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(214).jpg?raw=true)
+
+#### Adding to your server
+To generate the invite link, click on **Oauth2** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
+
+![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(215).png?raw=true)
+
+Copy the link and open it, select your server and click on **Authorize**. Cheers, it has been added to your server.
