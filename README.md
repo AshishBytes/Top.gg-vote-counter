@@ -35,3 +35,8 @@ There's a few things you can change here.
 - Icon: Change the bot's avatar
 - Public bot: Toggles the ability for other users to add your bot to their server.
 - Require Oauth2 Code Grant: Don't check this. Just, don't.
+
+#### Getting the token
+Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
+
+![](https://cdn.discordapp.com/attachments/874597209709105152/876299948793155654/Screenshot_214.jpg)
