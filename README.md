@@ -3,6 +3,9 @@ Top.gg/DBl vote counter
 
 
 
+### Developer
+ǃ                         Ashish#0001
+
 
 ### Step 1: Create a Github Account
 Visit https://github.com/join and create a Github Account.
