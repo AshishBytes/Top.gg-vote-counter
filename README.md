@@ -55,7 +55,7 @@ Copy the link and open it, select your server and click on **Authorize**. Cheers
 The bot will be hosted on Glitch.com , so you need to create a Glitch.com account first: https://glitch.com/login.
 
 ### Step 2.1: Import code
-Click on **New Project** > **Import from GitHub** > **Copy this url `https://github.com/HAPPY7131/Top.gg-vote-counter/edit/main/README.md` Then past on it** > **Press `ok`**
+Click on **New Project** > **Import from GitHub** > **Copy this url `https://github.com/HAPPY7131/Top.gg-vote-counter` Then past on it** > **Press `ok`**
 
 ### Step 2.2: Installation
 1. Add your Discord BOT TOKEN to the .env file in the ' BOT_TOKEN=bottokenhere '
