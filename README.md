@@ -57,3 +57,23 @@ The bot will be hosted on Glitch.com , so you need to create a Glitch.com accoun
 ### Step 2.1: Import code
 Click on **New Project** > **Import from GitHub** > **Copy this url `https://github.com/HAPPY7131/Top.gg-vote-counter/edit/main/README.md` Then past on it** > **Press `ok`**
 
+### Step 2.2: Installation
+1. Add your Discord BOT TOKEN to the .env file in the ' BOT_TOKEN=bottokenhere '
+
+2. Add your DBL API key to the .env file in the ' TOPGG_TOKEN=top.ggtokenhere '
+
+3. Add your Authorization password to the .env file as ' TOPGG_AUTH=passwrodhere '
+
+4. Add your Discord Channel Id to the .env file as ' CHANNEL_ID=channelidhere '
+
+5. Add your TOP.GG Vote Link to the .env file as ' VOTE_LINK=votelinkhere '
+
+6. Add your EMBED COLOR to the .env file as ' EMBED_COLOR=embedcolorhere '
+
+7. Add your BANNER LINK to the .env file as ' BANNER_LINK=bannerlinkhere '
+
+8. Go to "https://top.gg/bot/YourBotID/edit" scroll down to "Webhook" the put the URL to "http://yourprojectname.glitch.me/dblhook" and set the "Authorization" to what you put in the .env file!
+
+9. After all of that.. press "Save" on top.gg and then press "Test" and it should work!
+
+
