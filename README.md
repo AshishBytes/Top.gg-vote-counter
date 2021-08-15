@@ -1,5 +1,5 @@
 # Top.gg-vote-counter
-Top.gg/DBl vote counter  AKA DBL
+Top.gg vote counter AKA DBL
 
 
 
