@@ -1,0 +1,19 @@
+{
+  "name": "Top.gg-vote-counter",
+  "version": "1.0.0",
+  "description": "A very simple Discord Bot List voting counter",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "dependencies": {
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "author": "ǃ                         Ashish#0001",
+  "license": "GNU"
+}
