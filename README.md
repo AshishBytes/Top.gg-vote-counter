@@ -72,7 +72,7 @@ Click on **New Project** > **Import from GitHub** > **Copy this url `https://git
 
 7. Add your BANNER LINK to the .env file as ' BANNER_LINK=bannerlinkhere '
 
-8. Go to "https://top.gg/bot/YourBotID/edit" scroll down to "Webhook" the put the URL to "http://yourprojectname.glitch.me/dblhook" and set the "Authorization" to what you put in the .env file!
+8. Go to "https://top.gg/bot/YourBotID/edit" scroll down to "Webhook" the put the URL to "http://yourprojectname.glitch.me/dblwebhook" and set the "Authorization" to what you put in the .env file!
 
 9. After all of that.. press "Save" on top.gg and then press "Test" and it should work!
 
