@@ -50,3 +50,6 @@ To generate the invite link, click on **Oauth2** in the app page, and scroll dow
 ![](https://github.com/HAPPY7131/Top.gg-vote-counter/blob/main/assets/imgs/Screenshot%20(215).png?raw=true)
 
 Copy the link and open it, select your server and click on **Authorize**. Cheers, it has been added to your server.
+
+### Step 2: Hosting the bot
+The bot will be hosted on glitch.com , so you need to create a Replit account first: https://glitch.com/login.
