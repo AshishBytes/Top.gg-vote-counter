@@ -4,7 +4,7 @@ Top.gg vote counter AKA DBL
 
 
 ### Developer
-ǃ                         Ashish#0001(850938117422448670)
+[- Ashish. 🖤#1615](https://discord.com/users/175010396384657408) (175010396384657408) 
 
 
 ### Step 1: Create a Github Account
